@@ -1,0 +1,12 @@
+<!-- #cinfig of network -->
+<network>
+	<ip>ip</ip>
+	<port>port</port>
+	<home-path>home-path</home-path>
+</network>
+<!-- #config of database -->
+<database>
+	<server >server </server >
+	<use >use </use >
+	<password >password </password >
+</database>
